@@ -12,8 +12,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="tahsina-azam | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/tahsina-bintay-azam-0aa356196/)
-[<img align="left" alt="tahsina-azam | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/me_shee_me/?hl=en)
+[<img align="left" alt="tahsina-azam | linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" color="white" />](https://www.linkedin.com/in/tahsina-bintay-azam-0aa356196/)
+[<img align="left" alt="tahsina-azam | instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" color="white" />](https://www.instagram.com/me_shee_me/?hl=en)
 
 <br />
 
@@ -31,5 +31,8 @@
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />](https://github.com/)
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />](https://www.java.com/en/)
 
+<br />
+
+![Tahsina's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahsina-azam&count_private=true)
 
 
