@@ -32,7 +32,10 @@
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />](https://www.java.com/en/)
 
 <br />
+<br />
 
-![Tahsina's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahsina-azam&count_private=true)
+---
+
+![Tahsina's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahsina-azam&count_private=true&show_icons=true&theme=dracula)
 
 
