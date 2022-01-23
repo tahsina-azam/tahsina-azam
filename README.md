@@ -42,7 +42,7 @@
 <br />
 
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsina-azam&layout=compact)](https://github.com/tahsina-azam/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsina-azam&layout=compact&theme=dracula)](https://github.com/tahsina-azam/github-readme-stats)
 
 
 
