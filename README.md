@@ -37,7 +37,6 @@
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
 <br />
 <br />
-
 ---
 
 ![Tahsina's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahsina-azam&count_private=true&show_icons=true&theme=dracula)
