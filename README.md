@@ -11,6 +11,7 @@
 - ⚡ Fun fact: I like singing, painting, watching Anime and learning new tech related stuffs. 🥺
 
 ### Connect with me:
+
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/AzamTahsina#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/AzamTahsina#gh-dark-mode-only)
@@ -35,7 +36,6 @@
 [<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />](https://github.com#gh-light-mode-only)
 [<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />](https://www.java.com/en/)
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />](https://www.mongodb.com/)
-<br />
 <br />
 ---
 
