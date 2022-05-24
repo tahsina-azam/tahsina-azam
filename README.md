@@ -22,6 +22,20 @@
 [![website](./img/instagram-light.svg)](https://www.instagram.com/me_shee_me/?hl=en#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/me_shee_me/?hl=en#gh-dark-mode-only)
 <br />
+
+---
+
+![Tahsina's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahsina-azam&count_private=true&show_icons=true&theme=dracula)
+<br />
+<br />
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsina-azam&layout=compact&theme=dracula)](https://github.com/tahsina-azam/github-readme-stats)
+<br />
+<br />
+
+---
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -34,23 +48,12 @@
 <img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
-<img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png" style="padding-right:10px;" />
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Material UI" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_material_design.svg&psig=AOvVaw0Hx-Vj0N2AKsgzeWtcHrVB&ust=1653458020313000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJj_ura69_cCFQAAAAAdAAAAABAD" style="padding-right:10px;" />
 <br />
 <br />
-
----
-
-![Tahsina's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahsina-azam&count_private=true&show_icons=true&theme=dracula)
-<br />
-<br />
-
----
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsina-azam&layout=compact&theme=dracula)](https://github.com/tahsina-azam/github-readme-stats)
-
 
 
 
