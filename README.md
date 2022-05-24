@@ -51,9 +51,6 @@
 <img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/java/java.png" />
 <img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />
 <img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Material UI" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALogo_material_design.svg&psig=AOvVaw0Hx-Vj0N2AKsgzeWtcHrVB&ust=1653458020313000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCJj_ura69_cCFQAAAAAdAAAAABAD" style="padding-right:10px;" />
 <br />
+https://img.shields.io/static/v1?label=<Material Ui>&message=<Material Ui>&color=<pink>
 <br />
-
-
-
