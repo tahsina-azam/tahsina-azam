@@ -1,7 +1,7 @@
 ### Hi there, I'm Tahsina 👩🖐
 
 ## I'm a Student and a Tech Enthusiast!!
-
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
 - 🌱 I’m currently learning python and sql
 - 👯 I’m looking to collaborate on open source projects
@@ -10,7 +10,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like singing, painting, watching Anime and learning new tech related stuffs. 🥺
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
 ### Connect with me:
 
@@ -37,7 +37,7 @@
 <br />
 <br />
 
----
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
@@ -59,10 +59,5 @@
 <img align="left" alt="Material Ui" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
 <br />
 <br />
-<br>
-
-<img src="https://raw.githubusercontent.com/tahsina-azam/tahsina-azam/output/github-contribution-grid-snake-dark.svg">
-
-<br>
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
