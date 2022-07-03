@@ -37,7 +37,7 @@
 <br />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
-<img width="370px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tahsina-azam&background=ffffff00&hide_border=true&stroke=878787&ring=296dda&fire=296dda&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahsina-azam&theme=dracula&hide_border=True" alt="tahsina-azam" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 ### Languages and Tools:
