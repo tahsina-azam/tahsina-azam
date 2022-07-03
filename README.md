@@ -25,18 +25,17 @@
 <br />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+<p>
 
 ![Tahsina's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahsina-azam&count_private=true&show_icons=true&theme=dracula)
-<br />
-<br />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsina-azam&layout=compact&theme=dracula)](https://github.com/tahsina-azam/github-readme-stats)
+ </p> 
 <br />
 <br />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahsina-azam&theme=dracula&hide_border=True" alt="tahsina-azam" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
