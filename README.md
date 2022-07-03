@@ -3,23 +3,22 @@
 ## I'm a Student and a Tech Enthusiast!!
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
-- 🌱 I’m currently learning python and sql
+- 🌱 I’m currently learning Machine Learning and Three.js
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking to collaborate with other Nextjs/React developers
+- 🤔 I’m looking to collaborate with other Next.js/React developers
 - 💬 Ask me about MERN stack and JavaFX
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I like singing, painting, watching Anime and learning new tech related stuffs. 🥺
+- ⚡ Fun fact: I like singing, painting, watching Anime, cooking and learning new tech related stuffs. 🥺
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 
 ### Connect with me:
-
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/AzamTahsina#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/AzamTahsina#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/tahsina-bintay-azam-0aa356196#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/tahsina-bintay-azam-0aa356196#gh-dark-mode-only)
+&nbsp;&nbsp;
+[![website](./img/twitter-light.svg)](https://twitter.com/AzamTahsina#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/AzamTahsina#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://www.instagram.com/me_shee_me/?hl=en#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://www.instagram.com/me_shee_me/?hl=en#gh-dark-mode-only)
@@ -36,6 +35,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahsina-azam&layout=compact&theme=dracula)](https://github.com/tahsina-azam/github-readme-stats)
 <br />
 <br />
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0429.gif" width="400px">
+<img width="370px" alt="Eternal's GitHub Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=tahsina-azam&background=ffffff00&hide_border=true&stroke=878787&ring=296dda&fire=296dda&currStreakNum=878787&sideNums=878787&currStreakLabel=878787&sideLabels=878787&dates=878787" />
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
 ### Languages and Tools:
