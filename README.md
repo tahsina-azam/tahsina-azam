@@ -61,5 +61,3 @@
 <img align="left" alt="Material Ui" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
 <br />
 <br />
-
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" height=""></img>
