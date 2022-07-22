@@ -1,7 +1,7 @@
 ### Hi there, I'm Tahsina 👩🖐
 
 ## I'm a Student and a Tech Enthusiast!!
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1000" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" height=""></img>
 
 - 🌱 I’m currently learning Machine Learning and Three.js
 - 👯 I’m looking to collaborate on open source projects
@@ -10,7 +10,7 @@
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like singing, painting, watching Anime, cooking and learning new tech related stuffs. 🥺
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1000" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" height=""></img>
 
 ### Connect with me:
 &nbsp;&nbsp;
@@ -36,7 +36,7 @@
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=tahsina-azam&theme=dracula&hide_border=True" alt="tahsina-azam" />
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1000" height=""></img>
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" height=""></img>
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
