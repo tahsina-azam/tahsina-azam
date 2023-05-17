@@ -56,5 +56,8 @@
 <img align="left" alt="Bootstrap" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Semantic Ui" width="26px" src="https://raw.githubusercontent.com/ngx-semantic/ngx-semantic-docs/master/src/assets/images/logo.png" style="padding-right:10px;" />
 <img align="left" alt="Material Ui" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" style="padding-right:10px;" />
+<img align="left" alt="flask" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" style="padding-right:10px;" />
+<img align="left" alt="apache-tomcat" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg" style="padding-right:10px;" />
+<img align="left" alt="open-GL" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/opengl/opengl-original.svg" style="padding-right:10px;" />
 <br />
 <br />
