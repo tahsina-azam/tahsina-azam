@@ -3,9 +3,9 @@
 ## I'm a Student and a Tech Enthusiast!!
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" height=""></img>
 
-- 🌱 I’m currently learning Machine Learning and Three.js
+- 🌱 I’m currently learning Machine Learning and AR Development with Unity
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking to collaborate with other Next.js/React developers
+- 🤔 I’m looking to collaborate with other Next.js/React/Unity developers
 - 💬 Ask me about MERN stack and JavaFX
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I like singing, painting, watching Anime, cooking and learning new tech related stuffs. 🥺
