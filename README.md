@@ -1,6 +1,6 @@
 ### Hi there, I'm Tahsina 👩🖐
 
-## I'm a Student and a Tech Enthusiast!!
+## I'm a Full-Stack Software Engineer and a Tech Enthusiast!!
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="800" height=""></img>
 
 - 🌱 I’m currently learning Machine Learning and AR Development with Unity
